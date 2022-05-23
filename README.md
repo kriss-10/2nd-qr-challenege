@@ -14,12 +14,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)(C:\Users\sharp\OneDrive\Documents\my-qr-code-challenge\qr-code-challenge\images\my-qr-code-solution.jpeg)
+find screenshot within repository. File name "my-qr-solution.jpeg"
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/kriss-10/my-qr-code-challenge.git)
-- Live Site URL: [Add live site URL here](https://kriss-10.github.io/my-qr-code-challenge/)
+- Solution URL: [Add solution URL here](https://github.com/kriss-10/2nd-qr-challenege.git) **yes that's a misspelling** 
+
+- Live Site URL: [Add live site URL here](https://kriss-10.github.io/2nd-qr-challenege/)
+
 
 ## My process
 -HTML Markup 
